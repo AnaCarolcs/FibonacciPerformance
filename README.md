@@ -90,7 +90,7 @@ git clone https://github.com/AnaCarolcs/FibonacciPerformance.git
 
 #### Vá para o diretório da aplicação
 ```bash
-cd FibonacciPerformance.
+cd FibonacciPerformance
 ````
 
 #### Construa a aplicação
